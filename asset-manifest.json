@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://dev7-abood.github.io/csb-mzd2bi/static/css/main.0c33fbf2.css",
+    "main.js": "https://dev7-abood.github.io/csb-mzd2bi/static/js/main.820c25f4.js",
+    "index.html": "https://dev7-abood.github.io/csb-mzd2bi/index.html",
+    "main.0c33fbf2.css.map": "https://dev7-abood.github.io/csb-mzd2bi/static/css/main.0c33fbf2.css.map",
+    "main.820c25f4.js.map": "https://dev7-abood.github.io/csb-mzd2bi/static/js/main.820c25f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c33fbf2.css",
+    "static/js/main.820c25f4.js"
+  ]
+}
